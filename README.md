@@ -1,8 +1,14 @@
-Hi, I'm André Gustavo.
+## Hi, I'm André Gustavo 👋
+
 I'm a Software Engineering student at PUCPR, currently in my 5th semester.
 
-At the moment, I'm studying and building projects mainly with Java and Node.js.
-I enjoy applying what I learn through practical projects and continuously improving my technical skills.
+I'm currently studying and building projects with Java and Node.js, focusing on improving my skills through hands-on development.
 
-Technologies & Tools:
-HTML, CSS, JavaScript, PHP, Java, Node.js, MySQL, and Python.
+### Technologies & Tools
+- HTML & CSS  
+- JavaScript  
+- PHP  
+- Java  
+- Node.js  
+- MySQL  
+- Python
