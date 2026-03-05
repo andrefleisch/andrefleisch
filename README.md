@@ -6,9 +6,11 @@ I'm currently studying and building projects with Java and Node.js, focusing on 
 
 ### Technologies & Tools
 - HTML & CSS  
-- JavaScript  
+- JavaScript
+- Typescript
+- React
+- Node.js
 - PHP  
-- Java  
-- Node.js  
+- Java   
 - MySQL  
 - Python
