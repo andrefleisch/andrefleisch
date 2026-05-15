@@ -2,7 +2,7 @@
 
 My name is André Gustavo Reitz Fleischfresser, and I'm a Software Engineering undergraduate at PUCPR, Brazil.
 
-I'm currently focused on software development, especially backend architecture, REST APIs, authentication, relational databases, testing, documentation, and full stack applications.
+I'm focused on software development, especially backend architecture, REST APIs, authentication, relational databases, testing, documentation, and full stack applications.
 
 I like building projects with real business logic, clear structure, validation, persistence, maintainable code, and practical problem-solving.
 
@@ -13,17 +13,21 @@ I like building projects with real business logic, clear structure, validation, 
 - Software Engineering undergraduate at PUCPR
 - Currently building backend and full stack projects
 - Interested in software development internships
-- Experience with REST APIs, databases, Git/GitHub, authentication, testing and documentation
+- Experience with REST APIs, relational databases, Git/GitHub, authentication, testing and documentation
 - Robotics teaching assistant, working with programming, testing, debugging and iterative problem-solving
 
 ---
 
 #### Featured Projects
 
-**HelpDesk API**  
+### [HelpDesk API](https://github.com/andrefleisch/HelpDesk)
+
 Backend API for a help desk system with users, authentication, role-based authorization, tickets, comments, status control and service workflow management.
 
-Main technologies:
+> Live API: soon  
+> Swagger Docs: soon
+
+**Main technologies:**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -33,10 +37,14 @@ Main technologies:
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-Main concepts:
+**Main concepts:**
 
 - Layered backend architecture
+- REST API design
 - Authentication with JWT
 - Role-based authorization
 - Ticket filtering and pagination
@@ -44,14 +52,15 @@ Main concepts:
 - Centralized error handling
 - API documentation with Swagger/OpenAPI
 - End-to-end testing with Jest and Supertest
-- CI with GitHub Actions
+- Continuous integration with GitHub Actions
 
 ---
 
-**Habit Tracker**  
+### [Habit Tracker](https://github.com/andrefleisch/habit-tracker)
+
 Full stack habit tracking application with REST API, React frontend and SQLite database.
 
-Main technologies:
+**Main technologies:**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -60,12 +69,13 @@ Main technologies:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-Main concepts:
+**Main concepts:**
 
 - REST API development
 - Full stack application structure
 - Habit check-in history
-- Automatic streak and consistency calculation
+- Automatic streak calculation
+- Consistency calculation based on check-in history
 - Idempotent operations
 - Database integrity rules
 - State consistency between frontend and backend
@@ -128,6 +138,18 @@ Main concepts:
 - Automated testing
 - Clean project organization
 - Full stack development with React and TypeScript
+- Production-ready documentation and deployment
+
+---
+
+#### What I value in software development
+
+- Clear responsibilities between layers
+- Simple and maintainable architecture
+- Business rules implemented in the right place
+- Consistent validation and error handling
+- Reliable database modeling
+- Code that is easy to understand, test and evolve
 
 ---
 
