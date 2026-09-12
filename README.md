@@ -1,160 +1,71 @@
-## Software Engineering Student | Backend & Full Stack Developer
+# André Gustavo Reitz Fleischfresser
 
-My name is André Gustavo Reitz Fleischfresser, and I'm a Software Engineering undergraduate at PUCPR, Brazil.
+Software Engineering undergraduate at PUCPR, Brazil · iOS Automation QA Intern at Mitel
 
-I'm focused on software development, especially backend architecture, REST APIs, authentication, relational databases, testing, documentation, and full stack applications.
+> I like building things, experimenting, and learning by doing.
 
-I like building projects with real business logic, clear structure, validation, persistence, maintainable code, and practical problem-solving.
+I explore software by taking ideas from questions to working prototypes—across robotics, backend systems, automated testing, and native iOS apps.
 
----
+## About me
 
-#### About me
+My path started with robotics and hands-on experimentation, expanded into backend and full stack development, and now includes professional iOS test automation and native app development. I enjoy understanding how a product works as a whole: its user problem, business rules, architecture, data, interface, and reliability.
 
-- Software Engineering undergraduate at PUCPR
-- Currently building backend and full stack projects
-- Interested in software development internships
-- Experience with REST APIs, relational databases, Git/GitHub, authentication, testing and documentation
-- Robotics teaching assistant, working with programming, testing, debugging and iterative problem-solving
+## Featured projects
 
----
+### [Gap](https://github.com/andrefleisch/Gap) — native iOS product
 
-#### Featured Projects
+My current exploration of iOS and product development. Gap helps people turn short pockets of free time into realistic next steps by filtering tasks around available time and context.
 
-### [HelpDesk API](https://github.com/andrefleisch/HelpDesk)
+Built with **Swift, SwiftUI, and SwiftData**, the project grew from a product hypothesis through discovery interviews, MVP scoping, implementation, and usability checks. It explores local persistence, context-aware task suggestions, priority-aware selection, and the product decisions behind a focused mobile experience.
 
-Backend API for a help desk system with users, authentication, role-based authorization, tickets, comments, status control and service workflow management.
+### [HelpDesk](https://github.com/andrefleisch/HelpDesk) — backend software engineering
 
-> Live API: soon  
-> Swagger Docs: soon
+A help desk API centered on real business rules: user registration and authentication, role-based authorization, tickets, comments, assignment, status and priority workflows, filtering, and pagination. It uses a layered architecture with **TypeScript, Node.js, Express, Prisma, and PostgreSQL**, plus validation, centralized error handling, end-to-end tests, CI, and OpenAPI/Swagger documentation.
 
-**Main technologies:**
+### [Elder-Watch](https://github.com/andrefleisch/Elder-Watch) — embedded systems
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+A collaborative PUCPR prototype built with an **ESP32, C++, and an MPU6050**. It explores fall detection through motion data, a physical emergency button, Telegram alerts, medication reminders, and a small device-hosted monitoring dashboard.
 
-**Main concepts:**
+### [PromoSearch](https://github.com/andrefleisch/PromoSearch) — collaborative full stack project
 
-- Layered backend architecture
-- REST API design
-- Authentication with JWT
-- Role-based authorization
-- Ticket filtering and pagination
-- Business rules for status, priority and cancellation
-- Centralized error handling
-- API documentation with Swagger/OpenAPI
-- End-to-end testing with Jest and Supertest
-- Continuous integration with GitHub Actions
+A university project for connecting local stores offering promotions with customers searching for nearby deals. The application includes customer, store, and administrator roles; promotion publishing and moderation workflows; relational data; browser geolocation; and map-based discovery with radius and category filters. Built with **PHP, MySQL, JavaScript, Leaflet, and OpenStreetMap**.
 
----
+Smaller builds and earlier experiments include [Habit Tracker](https://github.com/andrefleisch/habit-tracker), [TableTennisManager](https://github.com/andrefleisch/TableTennisManager), and [PromoSearch Java](https://github.com/andrefleisch/PromoSearch-Java).
 
-### [Habit Tracker](https://github.com/andrefleisch/habit-tracker)
+## Professional experience
 
-Full stack habit tracking application with REST API, React frontend and SQLite database.
+### iOS Automation QA Intern — Mitel
 
-**Main technologies:**
+I work with iOS UI automation, regression testing, and end-to-end testing using **Appium, XCUITest, Cucumber, and accessibility identifiers**. The role also involves debugging and collaborative development with Git.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+## Selected technologies
 
-**Main concepts:**
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- REST API development
-- Full stack application structure
-- Habit check-in history
-- Automatic streak calculation
-- Consistency calculation based on check-in history
-- Idempotent operations
-- Database integrity rules
-- State consistency between frontend and backend
+- **iOS:** Swift, SwiftUI, SwiftData, XCUITest
+- **Testing:** Appium, Cucumber, Jest, Supertest, UI and end-to-end automation
+- **Software:** TypeScript, Node.js, Express, PHP, Java, Python, REST APIs
+- **Data and embedded:** PostgreSQL, MySQL, SQLite, Prisma, ESP32, Arduino/C++
+- **Workflow:** Git, GitHub, GitHub Actions, OpenAPI/Swagger
 
----
+## How I learn and build
 
-#### Technologies I use
+- Start with a problem or question, then make the smallest useful version tangible.
+- Test assumptions through code, prototypes, debugging, and feedback.
+- Treat unfamiliar areas as invitations to experiment, document tradeoffs, and iterate.
 
-**Languages**
+## Currently exploring
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+Native iOS and product development—especially SwiftUI, SwiftData, focused product experiments, and how user needs shape technical decisions.
 
-**Backend**
+## Contact
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Database & ORM**
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
-
-**Validation, Testing & Documentation**
-
-![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-#### Currently learning and improving
-
-- Backend architecture
-- API design
-- Authentication and authorization
-- Relational database modeling
-- Automated testing
-- Clean project organization
-- Full stack development with React and TypeScript
-- Production-ready documentation and deployment
-
----
-
-#### What I value in software development
-
-- Clear responsibilities between layers
-- Simple and maintainable architecture
-- Business rules implemented in the right place
-- Consistent validation and error handling
-- Reliable database modeling
-- Code that is easy to understand, test and evolve
-
----
-
-#### Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-André_Gustavo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrefleischfresser)
-[![GitHub](https://img.shields.io/badge/GitHub-andrefleisch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrefleisch)
-[![Email](https://img.shields.io/badge/Email-andrefleisch2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrefleisch2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-André_Gustavo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrefleischfresser)
+[![GitHub](https://img.shields.io/badge/GitHub-andrefleisch-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/andrefleisch)
+[![Email](https://img.shields.io/badge/Email-andrefleisch2%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andrefleisch2@gmail.com)
