@@ -69,10 +69,3 @@ Native iOS and product development—especially SwiftUI, SwiftData, focused prod
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-André_Gustavo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrefleischfresser)
 [![GitHub](https://img.shields.io/badge/GitHub-andrefleisch-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/andrefleisch)
 [![Email](https://img.shields.io/badge/Email-andrefleisch2%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andrefleisch2@gmail.com)
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=andrefleisch&label=Profile%20views&color=555555&style=flat-square"
-    alt="Profile views"
-  />
-</p>
