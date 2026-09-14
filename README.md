@@ -18,9 +18,9 @@ My current exploration of iOS and product development. Gap helps people turn sho
 
 Built with **Swift, SwiftUI, and SwiftData**, the project grew from a product hypothesis through discovery interviews, MVP scoping, implementation, and usability checks. It explores local persistence, context-aware task suggestions, priority-aware selection, and the product decisions behind a focused mobile experience.
 
-### [HelpDesk](https://github.com/andrefleisch/HelpDesk) — backend software engineering
+### [HelpDesk](https://github.com/andrefleisch/HelpDesk) — full stack help desk system
 
-A help desk API centered on real business rules: user registration and authentication, role-based authorization, tickets, comments, assignment, status and priority workflows, filtering, and pagination. It uses a layered architecture with **TypeScript, Node.js, Express, Prisma, and PostgreSQL**, plus validation, centralized error handling, end-to-end tests, CI, and OpenAPI/Swagger documentation.
+A full stack help desk system centered on real business rules: authentication with JWT, role-based authorization, tickets, comments, assignment, status and priority workflows, filtering, and pagination. The backend uses a layered architecture with **TypeScript, Node.js, Express, Prisma, PostgreSQL, and Zod**, supported by centralized error handling, end-to-end tests with Jest and Supertest, CI, and OpenAPI/Swagger documentation. The **React, React Router, Axios, and Bootstrap** frontend provides persistent authentication, protected routes, ticket creation and management, comments, and role-aware controls.
 
 ### [Elder-Watch](https://github.com/andrefleisch/Elder-Watch) — embedded systems
 
